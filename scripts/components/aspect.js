@@ -13,7 +13,7 @@ const Aspect = {
                     <div v-if="unique">
                         <div class="diablo-font fs-5 fw-bold text-center text-unique">{{ name }}</div>
                         <div class="border-bottom diablo-font fs-5 fw-bold mb-3 pb-3 text-center">{{ slot }}</div>
-                        <div v-else>Random drop in world tier 3 or above.</div>
+                        <div>Random drop in world tier 3 or above.</div>
                     </div>
                     <div v-else>
                         <div class="diablo-font fs-5 fw-bold text-center text-orange">{{ name }}</div>
