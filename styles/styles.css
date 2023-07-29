@@ -1,0 +1,25 @@
+.bg-orange {
+    background-color: #f8930a;
+}
+
+.bg-unique {
+    background-color: #d99661;
+}
+
+.diablo-font {
+    font-family: 'Andada Pro', serif;
+}
+
+.heart-icon,
+.skill-icon {
+    height: auto;
+    width: 4rem;
+}
+
+.text-orange {
+    color: #f8930a;
+}
+
+.text-unique {
+    color: #d99661;
+}
